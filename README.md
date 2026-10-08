@@ -331,6 +331,7 @@ This creates an opportunity to reduce reverse-logistics costs by addressing:
 
 # Repository Structure
 
+```text
 
 ShopSphere/
 │
@@ -358,6 +359,7 @@ ShopSphere/
 │
 └── Screenshots
 
+```
 
 ---
 
